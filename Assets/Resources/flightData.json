@@ -1,119 +1,72 @@
-{
-  "file_type": "text/acmi/tacview",
-  "file_version": 2.2,
-  "playback_delay": 600.0,
-  "reference_time": "2019-08-16 15:16:20",
-  "recording_time": "2020-07-25 00:29:46.251000",
-  "title": "The_Round_Table_-_Dynamic_Sandbox_Caucasus",
-  "data_recorder": "DCS2ACMI 1.8.2",
-  "data_source": "DCS 2.5.6.52437",
-  "author": "QSDragon",
-  "reference_longitude": 37.0,
-  "reference_latitude": 38.0,
-  "category": "Nothing",
-  "playback_key": "f3cba83f|9762",
-  "authentication_key": "f3cb02ff|41428fa7",
-  "briefing": "f3cb02ff|41428fa7",
-  "telemetry_entries": [
-    {
-      "object_id": "803",
-      "relative_timestamp": 0.0,
-      "relative_longitude": 2.9110509,
-      "relative_latitiude": 5.4351641,
-      "altitude": 10.0,
-      "roll": 33.0,
-      "pitch": 0.0,
-      "yaw": 0  
-    },
-    {
-      "object_id": "803",
-      "relative_timestamp": 0.0,
-      "relative_longitude": 1.987465,
-      "relative_latitiude": 7.0833075,
-      "altitude": 10.5,
-      "roll": null,
-      "pitch": null,
-      "yaw": null    
-    },
-    {
-      "object_id": "803",
-      "relative_timestamp": "11.83",
-      "relative_longitude": 7.698007,
-      "relative_latitiude": 8.8095421,
-      "altitude": 10.82,
-      "roll": null,
-      "pitch": 4.7,
-      "yaw": 263.6      
-    },
-    {
-      "object_id": "803",
-      "relative_timestamp": "15.31",
-      "relative_longitude": 4.7418061,
-      "relative_latitiude": 8.8096713,
-      "altitude": null,
-      "roll": null,
-      "pitch": 4.9,
-      "yaw": null      
-    },
-    {
-      "object_id": "803",
-      "relative_timestamp": "15.42",
-      "relative_longitude": 4.7418908,
-      "relative_latitiude": 8.8096801,
-      "altitude": 10.40,
-      "roll": null,
-      "pitch": 4.8,
-      "yaw": null
-    },
-    {
-      "object_id": "803",
-      "relative_timestamp": "15.53",
-      "relative_longitude": 4.74189,
-      "relative_latitiude": 8.502877,
-      "altitude": 10.25,
-      "roll": -45.0,
-      "pitch": 10,
-      "yaw": null
-    },
-    {
-      "object_id": "803",
-      "relative_timestamp": "15.65",
-      "relative_longitude": 1.0276965,
-      "relative_latitiude": 8.5028878,
-      "altitude": 10.50,
-      "roll": null,
-      "pitch": null,
-      "yaw": null      
-    },
-    {
-      "object_id": "803",
-      "relative_timestamp": "15.69",
-      "relative_longitude": null,
-      "relative_latitiude": null,
-      "altitude": 10.00,
-      "roll": null,
-      "pitch": null,
-      "yaw": null  
-    },
-    {
-      "object_id": "803",
-      "relative_timestamp": "15.76",
-      "relative_longitude": 1.0276803,
-      "relative_latitiude": 8.5028953,
-      "altitude": 5.00,
-      "roll": null,
-      "pitch": null,
-      "yaw": null
-    },
-    {
-      "object_id": "803",
-      "relative_timestamp": "15.89",
-      "relative_longitude": 1.0276725,
-      "relative_latitiude": 8.502806,
-      "altitude": 0.00,
-      "roll": null,
-      "pitch": null,
-      "yaw": null
-    }
-  ]
-}
+[
+  {
+    "object_id": "803",
+    "relative_timestamp": 0.0,
+    "relative_longitude": 2.9110509,
+    "relative_latitiude": 5.4351641,
+    "altitude": 10.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": 0.0,
+    "relative_longitude": 1.987465,
+    "relative_latitiude": 7.0833075,
+    "altitude": 10.5
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": "11.83",
+    "relative_longitude": 7.698007,
+    "relative_latitiude": 8.8095421,
+    "altitude": 10.82
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": "15.31",
+    "relative_longitude": 4.7418061,
+    "relative_latitiude": 8.8096713,
+    "altitude": 11.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": "15.42",
+    "relative_longitude": 4.7418908,
+    "relative_latitiude": 8.8096801,
+    "altitude": 10.40
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": "15.53",
+    "relative_longitude": 4.74189,
+    "relative_latitiude": 8.502877,
+    "altitude": 10.25
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": "15.65",
+    "relative_longitude": 1.0276965,
+    "relative_latitiude": 8.5028878,
+    "altitude": 10.50
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": "15.69",
+    "relative_longitude": 1.0999965,
+    "relative_latitiude": 8.2528878,
+    "altitude": 10.00
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": "15.76",
+    "relative_longitude": 1.0276803,
+    "relative_latitiude": 8.5028953,
+    "altitude": 5.00
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": "15.89",
+    "relative_longitude": 1.0276725,
+    "relative_latitiude": 8.502806,
+    "altitude": 0.00
+  }
+]
