@@ -22,5 +22,5 @@ Json flight data looks like this.
 2. Collect all clicked points into an array
 3. When you click the spacebar, show waypoints with spheres.
 4. Have a cube GameObject move smoothly to waypoints.
-*Bonus: Have the cube face toward the current waypoint.
-*Bonus: Write these points back to json similar to the other challenge.
+* Bonus: Have the cube face toward the current waypoint.
+* Bonus: Write these points back to json similar to the other challenge.
