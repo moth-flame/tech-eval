@@ -1,6 +1,6 @@
 # Tech Eval
-### Chose your own adventure
-##### JSON Goal: 
+## Chose your own adventure
+### JSON Goal: 
 1. Use the included Unity or Newtonsoft json library to parse flight data json.
 2. Use the parsed data to move a cube around on screen.
 3. The cube should move smoothly to waypoints by giving a new waypoint from data every 1 second.
@@ -18,7 +18,7 @@ Json flight data looks like this.
 ]
 ```
 
-##### World Interaction Goal
+### World Interaction Goal
 1. Click with mouse in your app to set a waypoint.
 2. Collect all clicked points into an array
 3. When you click the spacebar, show waypoints with spheres.
@@ -27,7 +27,7 @@ Json flight data looks like this.
 * Bonus: Write these points back to json similar to the other challenge.
 
 
-##### User Interface Goal
+### User Interface Goal
 1. Make UI elements for Up, Down, Left, Right
 2. Move the cube with those UI inputs
 * Bonus: move the cube smoothly to an offset position based on UI input
