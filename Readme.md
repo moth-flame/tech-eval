@@ -2,8 +2,7 @@
 ## Move a cube, choose a path
 ### 1. Data Driven Path: 
 1. Use the included Unity JSON or Newtonsoft JSON library to parse flight data JSON.
-2. Use the parsed data to move a cube around on screen.
-3. The cube should move smoothly to waypoints by giving a new waypoint from data every 1 second.
+2. Use the parsed data to move the cube smoothly to waypoints by giving a new waypoint from data every 1 second.
 
 Json flight data looks like this.
 ```
