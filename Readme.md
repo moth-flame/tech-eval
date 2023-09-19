@@ -1,4 +1,8 @@
 # Tech Eval
+
+Please ensure you have a valid Unity version installed, ideally 2020.3.39f1 or newer.
+
+
 ## Move a cube, choose a path
 ### 1. Data Driven Path: 
 1. Use the included Unity JSON or Newtonsoft JSON library to parse flight data JSON.
