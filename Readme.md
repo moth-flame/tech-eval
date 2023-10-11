@@ -8,6 +8,9 @@ Objective: Design an algorithm that determines if a given string is a palindrome
 Background:
 A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
 
+Notes:
+1. Put your work in Palindrome.cs using the words provided.
+
 ## JSON Cube
 Objective: Move a cube by ingesting JSON data and using that data as a list of waypoints.
 
