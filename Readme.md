@@ -1,28 +1,30 @@
 # Tech Eval
 Please ensure you have Unity version 2022.3.21f1 installed as well as an IDE of your choice.
 
-## Bug Tickets
-# Ticket 1: Movement loop doesn't start
+# Bug Tickets
+## Ticket 1: Movement loop doesn't start
 Repro Steps:
 1. Start cube movement app
 2. Observe cube not moving
 
-Ticket 2: Movement stops halfway through
+## Ticket 2: Movement stops halfway through
 Repro Steps:
 1. Start cube movement app
 2. Observe cube beginning movement
 3. Observe cube stopping halfway through the full circle
 
-Ticket 3: Error log spam on movement completion
+## Ticket 3: Error log spam on movement completion
+Repro Steps:
 1. Start cube movement app
 2. Observe cube moving along the full path circle
 3. Observe error logs every frame once cube reaches end of path
 
-Ticket 4: Minor error log at start
+## Ticket 4: Minor error log at start
+Repro Steps:
 1. Start cube movement app
 2. Observe invalid position assignment at start of app, even though cube continues moving
 
-## Feature Request: Multi-Cube Data
+# Feature Request: Multi-Cube Data
 Problem:
 1. Current cube movement system is hardcoded to only handle data for one cube in a given data file.
 
