@@ -11,7 +11,7 @@ Repro Steps:
 Repro Steps:
 1. Start cube movement app
 2. Observe cube beginning movement
-3. Observe cube stopping halfway through the full circle
+3. Observe cube stopping halfway through the full path circle
 
 ## Ticket 3: Error log spam on movement completion
 Repro Steps:
