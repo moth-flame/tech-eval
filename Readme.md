@@ -1,25 +1,37 @@
 # Tech Eval
+Please ensure you have Unity version 2022.3.21f1 installed as well as an IDE of your choice.
 
-Please ensure you have a valid Unity version installed, ideally 2020.3.39f1 or newer.
+## Bug Tickets
+# Ticket 1: Movement loop doesn't start
+Repro Steps:
+1. Start cube movement app
+2. Observe cube not moving
 
-## Palindrome
-Objective: Design an algorithm that determines if a given string is a palindrome.
+Ticket 2: Movement stops halfway through
+Repro Steps:
+1. Start cube movement app
+2. Observe cube beginning movement
+3. Observe cube stopping halfway through the full circle
 
-Background:
-A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
+Ticket 3: Error log spam on movement completion
+1. Start cube movement app
+2. Observe cube moving along the full path circle
+3. Observe error logs every frame once cube reaches end of path
+
+Ticket 4: Minor error log at start
+1. Start cube movement app
+2. Observe invalid position assignment at start of app, even though cube continues moving
+
+## Feature Request: Multi-Cube Data
+Problem:
+1. Current cube movement system is hardcoded to only handle data for one cube in a given data file.
+
+Objective:
+1. Extend the cube movement system to allow for an arbitrary number of cubes to be moved by one data file.
 
 Notes:
-1. Put your work in Palindrome.cs using the words provided.
-
-## JSON Cube
-Objective: Move a cube by ingesting JSON data and using that data as a list of waypoints.
-
-Notes:
-1. Use the included Unity JSON or Newtonsoft JSON library to parse flight data JSON.
-2. Use the parsed data to move the cube to waypoints by giving a new waypoint from data every 1 second.
-3. Update the movement to move smoothly.
-
-Json flight data looks like this.
+1. `positionData_FourCubes.json` contains data for 4 different cubes associated with separate integer IDs.
+2. Json flight data looks like this.
 ```
 [
   {

@@ -1,0 +1,254 @@
+[
+  {
+    "object_id": "803",
+    "relative_timestamp": 0.0,
+    "relative_longitude": -5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": 1.0,
+    "relative_longitude": -5,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": 2.0,
+    "relative_longitude": 0,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": 3.0,
+    "relative_longitude": 5,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": 5.0,
+    "relative_longitude": 5,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": 4.0,
+    "relative_longitude": 5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": 6.0,
+    "relative_longitude": 0,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": 7.0,
+    "relative_longitude": -5,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "803",
+    "relative_timestamp": 8.0,
+    "relative_longitude": -5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "601",
+    "relative_timestamp": 0.0,
+    "relative_longitude": 5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "601",
+    "relative_timestamp": 1.0,
+    "relative_longitude": 5,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "601",
+    "relative_timestamp": 2.0,
+    "relative_longitude": 0,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "601",
+    "relative_timestamp": 3.0,
+    "relative_longitude": -5,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "601",
+    "relative_timestamp": 4.0,
+    "relative_longitude": -5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "601",
+    "relative_timestamp": 5.0,
+    "relative_longitude": -5,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "601",
+    "relative_timestamp": 6.0,
+    "relative_longitude": 0,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "601",
+    "relative_timestamp": 7.0,
+    "relative_longitude": 5,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "601",
+    "relative_timestamp": 8.0,
+    "relative_longitude": 5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "430",
+    "relative_timestamp": 0.0,
+    "relative_longitude": 0,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "430",
+    "relative_timestamp": 1.0,
+    "relative_longitude": -5,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "430",
+    "relative_timestamp": 2.0,
+    "relative_longitude": -5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "430",
+    "relative_timestamp": 3.0,
+    "relative_longitude": -5,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "430",
+    "relative_timestamp": 4.0,
+    "relative_longitude": 0,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "430",
+    "relative_timestamp": 5.0,
+    "relative_longitude": 5,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "430",
+    "relative_timestamp": 6.0,
+    "relative_longitude": 5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "430",
+    "relative_timestamp": 7.0,
+    "relative_longitude": 5,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "430",
+    "relative_timestamp": 8.0,
+    "relative_longitude": 0,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "101",
+    "relative_timestamp": 0.0,
+    "relative_longitude": 0,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "101",
+    "relative_timestamp": 1.0,
+    "relative_longitude": 5,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "101",
+    "relative_timestamp": 2.0,
+    "relative_longitude": 5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "101",
+    "relative_timestamp": 3.0,
+    "relative_longitude": 5,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "101",
+    "relative_timestamp": 4.0,
+    "relative_longitude": 0,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "101",
+    "relative_timestamp": 5.0,
+    "relative_longitude": -5,
+    "relative_latitiude": 5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "101",
+    "relative_timestamp": 6.0,
+    "relative_longitude": -5,
+    "relative_latitiude": 0,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "101",
+    "relative_timestamp": 7.0,
+    "relative_longitude": -5,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  },
+  {
+    "object_id": "101",
+    "relative_timestamp": 8.0,
+    "relative_longitude": 0,
+    "relative_latitiude": -5,
+    "altitude": 0.0
+  }
+]
